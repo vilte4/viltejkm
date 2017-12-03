@@ -1,0 +1,3 @@
+Autobuso nr      Autobuso marsruto ilgis
+----------------------------------------
+Vidutinis autobusu marsrutu ilgis yra -1.#IND
